@@ -210,7 +210,7 @@ input, select, textarea {
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: #ffffff;
 			text-decoration: none;
 		}
 
@@ -3881,6 +3881,7 @@ input, select, textarea {
 		}
 
 	}
+
 
 
 
